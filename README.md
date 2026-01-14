@@ -83,14 +83,13 @@ I enjoy working on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh-85293&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-85293&layout=compact&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=harsh-85293&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harsh-85293&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=harsh-85293&theme=tokyonight" height="160" />
 </p>
-
 ---
 
 ## 🤝 Connect With Me

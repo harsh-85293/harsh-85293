@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Harsh Ramchandani 👋</h1>
+<h1 align="center">Hi there, I'm Harsh Ramchandani </h1>
 
 <p align="center">
   <b>Full-Stack Developer • DevOps Enthusiast • Real-time Systems</b>
@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 I'm **Harsh Ramchandani**, a **Full-stack developer and DevOps enthusiast** focused on building **secure, scalable MERN applications** and **real-time systems**.
 
 I enjoy working on:
@@ -30,7 +30,7 @@ I enjoy working on:
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 **Languages:** C++ • JavaScript • Python  
 **Frontend:** React.js • Tailwind CSS  
 **Backend:** Node.js • Express.js  
@@ -41,7 +41,7 @@ I enjoy working on:
 
 ---
 
-## 💼 Featured Projects
+##  Featured Projects
 
 ### 🔹 DevConnect – Real-Time Developer Networking & Collaboration Platform
 **Tech:** React.js • Node.js • Express.js • MongoDB • Redis • Kafka • Socket.IO • JWT • Nodemailer • AWS EC2  
@@ -92,7 +92,7 @@ I enjoy working on:
 </p>
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 📧 Email: **harsh.ramchandani122003@gmail.com**  
 🔗 LinkedIn: **https://www.linkedin.com/in/harsh-ramchandani007/**  
 🌐 Portfolio: **https://portfoliowebsite-phi-indol.vercel.app/**  

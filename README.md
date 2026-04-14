@@ -95,7 +95,6 @@ I enjoy working on:
 ##  Connect With Me
 📧 Email: **harsh.ramchandani122003@gmail.com**  
 🔗 LinkedIn: **https://www.linkedin.com/in/harsh-ramchandani007/**  
-🌐 Portfolio: **https://portfoliowebsite-phi-indol.vercel.app/**  
 
 ---
 

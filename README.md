@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Harsh Ramchandani</h1>
 
 <p align="center">
@@ -19,7 +18,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-222222?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/harsh-85293">
-    <img src="https://img.shields.io/badge/GitHub-harsh--85293-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-harsh--85293-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/harsh-ramchandani007/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -35,49 +34,53 @@
 
 I'm **Harsh Ramchandani**, a 2026 Information Science and Engineering graduate working across **DevOps, cloud infrastructure, backend engineering and full-stack development**.
 
-I like building things end-to-end: application logic, APIs, databases, deployment pipelines, infrastructure and monitoring. Most of my projects are built around problems where reliability, automation or real-time communication actually matters.
+I like building things end-to-end — application logic, APIs, databases, deployment pipelines, infrastructure and monitoring. Most of the projects I work on involve problems where reliability, automation, performance or real-time communication actually matters.
 
-My current focus is on:
+Currently focused on:
 
-- Cloud infrastructure and deployment automation
-- Backend and API engineering
-- Containers and Kubernetes
-- Infrastructure as Code
-- Real-time and event-driven systems
-- Monitoring and observability
-- Production-ready full-stack applications
+* Cloud infrastructure and deployment automation
+* Backend and API engineering
+* Docker and Kubernetes
+* Infrastructure as Code
+* CI/CD and GitOps
+* Real-time and event-driven systems
+* Monitoring and observability
+* Production-ready full-stack applications
 
 ---
 
-## Tech I Work With
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,cpp,react,nodejs,express,mongodb,postgres,redis,docker,kubernetes,aws,terraform,linux,nginx,git,github,gitlab,jenkins,grafana,prometheus&perline=11" />
 </p>
 
-### Cloud & Infrastructure
+**Languages**
+JavaScript · Python · SQL · Bash · C++
 
-`AWS` · `Oracle Cloud Infrastructure` · `Docker` · `Kubernetes` · `Terraform` · `OpenTofu` · `Linux` · `NGINX`
+**Frontend**
+React.js · Tailwind CSS · HTML · CSS
 
-### CI/CD & Delivery
+**Backend**
+Node.js · Express.js · REST APIs · JWT · WebSockets · Socket.IO
 
-`GitLab CI/CD` · `Jenkins` · `Argo CD` · `GitHub` · `Git`
+**Databases**
+MongoDB · PostgreSQL · SQL Server · Redis
 
-### Backend
+**Cloud**
+AWS · Oracle Cloud Infrastructure
 
-`Node.js` · `Express.js` · `REST APIs` · `JWT` · `Google OAuth` · `WebSockets` · `Socket.IO`
+**DevOps & Infrastructure**
+Docker · Kubernetes · Terraform · OpenTofu · Linux · NGINX
 
-### Databases & Messaging
+**CI/CD & Delivery**
+GitLab CI/CD · Jenkins · Argo CD · GitHub · Git
 
-`MongoDB` · `PostgreSQL` · `SQL Server` · `Redis` · `Kafka`
+**Messaging & Real-Time Systems**
+Kafka · Redis · Socket.IO · WebSockets
 
-### Frontend
-
-`React.js` · `Tailwind CSS` · `HTML` · `CSS`
-
-### Observability
-
-`Prometheus` · `Grafana` · `CloudWatch` · `OCI Monitoring` · `OCI Logging`
+**Monitoring & Observability**
+Prometheus · Grafana · CloudWatch · OCI Monitoring · OCI Logging
 
 ---
 
@@ -89,30 +92,30 @@ My current focus is on:
 
 **React.js · Node.js · Express.js · MongoDB · Tailwind CSS · Google OAuth · JWT · IndexedDB**
 
-FieldTrack is a full-stack platform built for field teams to manage attendance, employee movement, store visits, product collection and reporting from one place.
+FieldTrack is a full-stack field operations platform built to manage employee attendance, GPS-based movement, store visits, product collection, dashboards and reporting.
 
-Instead of treating it as a basic CRUD application, I built it around the problems field applications actually face: location validation, unreliable connectivity, access control and reporting.
+I built it around problems that real field applications face, including intermittent connectivity, location validation, authentication, role-based access and data synchronization.
 
-**What I built**
+**Key features**
 
-- Six operational workflows covering attendance, GPS tracking, store visits, product collection, dashboards and reporting
-- Eleven REST API modules across the application
-- Role-based access control for different user types
-- Google OAuth and JWT authentication with HTTP-only cookies
-- Password hashing with bcrypt
-- Helmet, CORS, rate limiting and audit logging
-- GPS distance validation using the Haversine formula
-- Offline queues using IndexedDB
-- Automatic synchronization after internet connectivity is restored
-- PDF, Excel and CSV exports
-- Responsive dashboards for field activity and reporting
+* Built **6 operational workflows** covering attendance, GPS tracking, store visits, product collection, dashboards and reporting
+* Developed and secured **11 REST API modules**
+* Implemented role-based access control for different user types
+* Added Google OAuth and JWT authentication using HTTP-only cookies
+* Used bcrypt for password hashing
+* Added Helmet, CORS, rate limiting and audit logging
+* Implemented GPS distance calculation using the Haversine formula
+* Built offline queues using IndexedDB
+* Added automatic synchronization when connectivity is restored
+* Added PDF, Excel and CSV exports
+* Built responsive dashboards for monitoring field operations
 
 <p>
   <a href="https://fieldtrack-roan.vercel.app/login">
-    <img src="https://img.shields.io/badge/Live%20Application-Open-000000?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/Live%20Application-Open-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://github.com/harsh-85293/fieldtrack">
-    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -122,34 +125,34 @@ Instead of treating it as a basic CRUD application, I built it around the proble
 
 **AWS · Docker · Kubernetes · Terraform · GitLab CI/CD · Argo CD · NGINX · Prometheus · Grafana**
 
-This project covers the complete deployment lifecycle of a MERN application, from provisioning the network and compute infrastructure to deploying containers and monitoring the running services.
+A complete DevOps implementation covering infrastructure provisioning, containerization, CI/CD, Kubernetes deployment, GitOps and observability.
 
-**Infrastructure**
+### Infrastructure
 
-- Provisioned 15+ AWS resources through modular Terraform
-- Created a VPC with two public and two private subnets
-- Provisioned EC2 instances
-- Configured Application and Network Load Balancers
-- Added S3 storage
-- Provisioned PostgreSQL using Amazon RDS
+* Provisioned **15+ AWS resources** using modular Terraform
+* Designed a VPC with **2 public and 2 private subnets**
+* Provisioned EC2 instances
+* Configured Application Load Balancer and Network Load Balancer
+* Added S3 storage
+* Provisioned PostgreSQL using Amazon RDS
 
-**Deployment**
+### Deployment
 
-- Containerized three MERN services using Docker
-- Deployed workloads using Kubernetes
-- Configured Deployments, Services and ReplicaSets
-- Added NGINX Ingress for traffic routing
-- Automated builds and deployments through GitLab CI/CD
-- Used Argo CD for GitOps-based deployment
+* Containerized **3 MERN services** using Docker
+* Deployed workloads using Kubernetes
+* Configured Deployments, Services and ReplicaSets
+* Added NGINX Ingress for application routing
+* Automated builds and deployments using GitLab CI/CD
+* Implemented GitOps-based deployment using Argo CD
 
-**Observability**
+### Monitoring
 
-- Added Prometheus for metrics collection
-- Built Grafana dashboards for application and infrastructure monitoring
+* Added Prometheus for metrics collection
+* Built Grafana dashboards for application and infrastructure monitoring
 
 <p>
   <a href="https://github.com/harsh-85293/containerize-mern-stack-application">
-    <img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -161,32 +164,32 @@ This project covers the complete deployment lifecycle of a MERN application, fro
 
 **React.js · Node.js · Express.js · MongoDB · Redis · Kafka · Socket.IO · Nodemailer · Razorpay · JWT**
 
-DevConnect is a networking platform built around developer discovery, connections, real-time communication and premium functionality.
+DevConnect is a developer networking platform with connection management, real-time messaging, caching, asynchronous event processing and payments.
 
-The project gave me the opportunity to work beyond a standard MERN stack and introduce caching, event-driven communication, WebSockets and payment workflows.
+This project helped me work beyond a standard MERN application by integrating WebSockets, Redis, Kafka and payment workflows.
 
-**Backend & Security**
+### Backend & Security
 
-- Built 15+ REST APIs for authentication, profiles, connections, messaging and payments
-- Implemented JWT authentication using HTTP-only cookies
-- Added protected routes and RBAC
-- Added request and schema validation
+* Developed **15+ REST APIs** for authentication, profiles, connections, messaging and payments
+* Implemented JWT authentication using HTTP-only cookies
+* Added RBAC and protected routes
+* Added schema and request validation
 
-**Real-Time Communication**
+### Real-Time Communication
 
-- Built duplex chat using Socket.IO and WebSockets
-- Stored persistent conversation history
-- Used Kafka for asynchronous chat events
+* Built duplex chat using Socket.IO and WebSockets
+* Added persistent conversation history
+* Used Kafka for asynchronous chat events
 
-**Performance & Messaging**
+### Performance & Notifications
 
-- Used Redis for sessions and profile caching
-- Added automated email notifications using Nodemailer
-- Implemented scheduled reminders and alerts
+* Used Redis for session management and profile caching
+* Added email notifications using Nodemailer
+* Implemented scheduled alerts and reminders
 
-**Payments**
+### Payments
 
-Integrated Razorpay across the complete payment lifecycle:
+Integrated Razorpay across the complete payment flow:
 
 1. Order creation
 2. Payment processing
@@ -194,35 +197,33 @@ Integrated Razorpay across the complete payment lifecycle:
 4. Payment persistence
 5. Premium account activation
 
-**Deployment**
+### Deployment
 
-- Deployed backend services on AWS EC2
-- Used MongoDB for profile, application and conversation data
+* Deployed backend services on AWS EC2
+* Used MongoDB for profiles, application data and conversation history
 
 <p>
   <a href="https://github.com/harsh-85293/Dev-Connect-Website">
-    <img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## AWS & DevOps Stack
+## Cloud & DevOps Stack
 
-Some of the infrastructure and platform services I have worked with:
-
-| Area | Technologies |
-|---|---|
-| Compute | EC2, ECS |
-| Networking | VPC, ALB, NLB, Route 53 |
-| APIs | API Gateway, REST APIs |
-| Security | IAM, WAF, ACM |
-| Storage & DB | S3, RDS, PostgreSQL |
-| Infrastructure as Code | Terraform, OpenTofu |
-| Containers | Docker, Kubernetes |
-| CI/CD | GitLab CI/CD, Jenkins, Argo CD |
-| Monitoring | CloudWatch, Prometheus, Grafana |
-| Oracle Cloud | OCI Compute, Monitoring, Logging |
+| Area                   | Technologies                     |
+| ---------------------- | -------------------------------- |
+| Compute                | EC2, ECS                         |
+| Networking             | VPC, ALB, NLB, Route 53          |
+| APIs                   | API Gateway, REST APIs           |
+| Security               | IAM, WAF, ACM                    |
+| Storage & Databases    | S3, RDS, PostgreSQL              |
+| Infrastructure as Code | Terraform, OpenTofu              |
+| Containers             | Docker, Kubernetes               |
+| CI/CD                  | GitLab CI/CD, Jenkins, Argo CD   |
+| Monitoring             | CloudWatch, Prometheus, Grafana  |
+| Oracle Cloud           | OCI Compute, Monitoring, Logging |
 
 ---
 
@@ -232,6 +233,7 @@ Some of the infrastructure and platform services I have worked with:
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsh-85293&theme=tokyonight"
     width="90%"
+    alt="GitHub Profile Summary"
   />
 </p>
 
@@ -239,10 +241,12 @@ Some of the infrastructure and platform services I have worked with:
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harsh-85293&theme=tokyonight"
     height="170"
+    alt="Repositories Per Language"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harsh-85293&theme=tokyonight"
     height="170"
+    alt="Most Commit Language"
   />
 </p>
 
@@ -250,10 +254,12 @@ Some of the infrastructure and platform services I have worked with:
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harsh-85293&theme=tokyonight"
     height="170"
+    alt="GitHub Stats"
   />
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harsh-85293&theme=tokyonight&utcOffset=5.5"
     height="170"
+    alt="Productive Time"
   />
 </p>
 
@@ -261,6 +267,7 @@ Some of the infrastructure and platform services I have worked with:
   <img
     src="https://streak-stats.demolab.com?user=harsh-85293&theme=tokyonight&hide_border=true"
     height="170"
+    alt="GitHub Streak"
   />
 </p>
 
@@ -274,9 +281,9 @@ Led a four-member **AgroLoop** team through planning, development, coordination 
 
 **Top 100 nationally** among:
 
-- 4,000+ teams
-- 25,000+ students
-- Participants from 15 states
+* 4,000+ teams
+* 25,000+ students
+* Participants from 15 states
 
 ---
 
@@ -284,18 +291,18 @@ Led a four-member **AgroLoop** team through planning, development, coordination 
 
 **The National Institute of Engineering, Mysore**
 
-B.E. Information Science and Engineering  
-2022 – 2026  
+B.E. Information Science and Engineering
+2022 – 2026
 **CGPA: 8.53**
 
 ---
 
 ## Certifications
 
-- Oracle Cloud Infrastructure 2026 Certified Foundations Associate
-- Oracle Cloud Infrastructure Certified AI Foundations Associate
-- Foundations of DevOps and Git — Packt
-- Full Stack Development — NamasteDev
+* Oracle Cloud Infrastructure 2026 Certified Foundations Associate
+* Oracle Cloud Infrastructure Certified AI Foundations Associate
+* Foundations of DevOps and Git — Packt
+* Full Stack Development — NamasteDev
 
 ---
 
@@ -303,23 +310,19 @@ B.E. Information Science and Engineering
 
 <p align="center">
   <a href="https://portfoliowebsite-phi-indol.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Projects-000000?style=flat-square&logo=vercel" />
+    <img src="https://img.shields.io/badge/Portfolio-View%20Projects-000000?style=flat-square&logo=vercel&logoColor=white" />
   </a>
-
   <a href="https://www.linkedin.com/in/harsh-ramchandani007/">
-    <img src="https://img.shields.io/badge/LinkedIn-Harsh%20Ramchandani-0A66C2?style=flat-square&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Harsh%20Ramchandani-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="https://github.com/harsh-85293">
-    <img src="https://img.shields.io/badge/GitHub-harsh--85293-181717?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-harsh--85293-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-
   <a href="mailto:harsh.ramchandani122003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-harsh.ramchandani122003-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <b>Cloud infrastructure. Backend systems. Automation. Production-ready applications.</b>
+  <b>Cloud infrastructure · Backend systems · Automation · Production-ready applications</b>
 </p>
-```

@@ -13,16 +13,16 @@
 
 <p align="center">
   <a href="https://portfoliowebsite-phi-indol.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://github.com/harsh-85293">
-    <img src="https://img.shields.io/badge/GitHub-harsh--85293-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-harsh--85293-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/harsh-ramchandani007/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:harsh.ramchandani122003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -65,7 +65,7 @@ Most of the things I build involve at least one of these problems:
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,react,nodejs,express,mongodb,postgres,redis,docker,kubernetes,aws,terraform,linux,nginx,git,github,gitlab,jenkins,grafana,prometheus&perline=11" />
+  <img src="https://skillicons.dev/icons?i=js,python,cpp,react,nodejs,express,mongodb,postgres,redis,docker,kubernetes,aws,terraform,linux,nginx,git,github,gitlab,jenkins,grafana,prometheus&perline=11" alt="Technology Stack" />
 </p>
 
 <br>
@@ -129,10 +129,10 @@ I built it around problems field applications actually face: unreliable connecti
 
 <p align="center">
   <a href="https://fieldtrack-roan.vercel.app/login">
-    <img src="https://img.shields.io/badge/Live%20Application-Open-000000?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/Live%20Application-Open-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Open FieldTrack">
   </a>
   <a href="https://github.com/harsh-85293/fieldtrack">
-    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="FieldTrack Source Code">
   </a>
 </p>
 
@@ -170,7 +170,7 @@ A complete DevOps implementation covering cloud infrastructure, containerization
 
 <p align="center">
   <a href="https://github.com/harsh-85293/containerize-mern-stack-application">
-    <img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="MERN DevOps Repository">
   </a>
 </p>
 
@@ -232,7 +232,7 @@ Integrated Razorpay across:
 
 <p align="center">
   <a href="https://github.com/harsh-85293/Dev-Connect-Website">
-    <img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/View%20Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="DevConnect Repository">
   </a>
 </p>
 
@@ -256,8 +256,6 @@ Integrated Razorpay across:
 ---
 
 # GitHub Analytics
-
-The previous large profile-details card has been removed because its internal SVG layout was causing the email and graph to overlap.
 
 ## Statistics
 
@@ -309,7 +307,7 @@ The previous large profile-details card has been removed because its internal SV
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=harsh-85293&theme=tokyonight&hide_border=true"
+    src="./profile/streak.svg"
     width="600"
     alt="GitHub Contribution Streak"
   />
@@ -320,11 +318,21 @@ The previous large profile-details card has been removed because its internal SV
 ## Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=harsh-85293&theme=tokyo-night&hide_border=true&area=true"
-    width="95%"
-    alt="GitHub Contribution Activity"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./profile/contribution-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./profile/contribution-snake.svg"
+    />
+    <img
+      src="./profile/contribution-snake.svg"
+      width="95%"
+      alt="GitHub Contribution Activity Animation"
+    />
+  </picture>
 </p>
 
 ---
@@ -367,13 +375,13 @@ Led a four-member **AgroLoop** team through planning, development, coordination 
 
 <p align="center">
   <a href="https://portfoliowebsite-phi-indol.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Projects-000000?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Projects-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/harsh-ramchandani007/">
-    <img src="https://img.shields.io/badge/LinkedIn-Harsh%20Ramchandani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-Harsh%20Ramchandani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:harsh.ramchandani122003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
